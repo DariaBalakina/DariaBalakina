@@ -4,3 +4,4 @@
 - I'm currently learning Data Science in Johns Hopkins University
 - I'm looking to collaborate on R 
 - You can reach me via e-mail - balakinado@gmail.com
+- But I strongly believe I will beat it.
